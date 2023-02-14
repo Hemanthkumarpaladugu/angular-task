@@ -1,0 +1,26 @@
+.green{
+    background-color: green;
+}
+.warning{
+    background-color: orange;
+}
+.black{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.backgrnd{
+    background-image: linear-gradient(to right, 
+    #fd9104, #000000, #86d16b);
+}
+.btn{
+    border-radius: 15px;
+    font-size: 10px;
+    width: 10vw;
+}
+.enter{
+    font-weight: 1000;
+}
+.inpt{
+    border-radius: 5px;
+}
